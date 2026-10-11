@@ -1,0 +1,38 @@
+{
+  "name": "neural-green",
+  "displayName": "Neural Green",
+  "description": "A Matrix-inspired green-on-black VS Code theme with phosphor-green highlights, mint strings, teal types, and a calm dark interface.",
+  "version": "1.0.3",
+  "publisher": "Neuralcube",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "matrix",
+    "green",
+    "neuralcube",
+    "terminal"
+  ],
+  "galleryBanner": {
+    "color": "#07100A",
+    "theme": "dark"
+  },
+  "pricing": "Free",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neural Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neural-green-color-theme.json"
+      }
+    ]
+  }
+}
