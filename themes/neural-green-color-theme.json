@@ -206,7 +206,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#527C61",
+        "foreground": "#7FA58B",
         "fontStyle": "italic"
       }
     },
@@ -217,7 +217,7 @@
         "comment.line.documentation"
       ],
       "settings": {
-        "foreground": "#6D9B7A",
+        "foreground": "#8FAF98",
         "fontStyle": "italic"
       }
     },
@@ -244,7 +244,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#5EEAD4"
+        "foreground": "#B7F36B"
       }
     },
     {
@@ -314,7 +314,7 @@
         "meta.parameter"
       ],
       "settings": {
-        "foreground": "#C6F7D4"
+        "foreground": "#D4E8FF"
       }
     },
     {
@@ -325,7 +325,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#8FE6A8"
+        "foreground": "#82CFFF"
       }
     },
     {
@@ -334,7 +334,7 @@
         "variable.other.php"
       ],
       "settings": {
-        "foreground": "#A7F3D0"
+        "foreground": "#D4E8FF"
       }
     },
     {
@@ -385,7 +385,7 @@
         "meta.property-name.css"
       ],
       "settings": {
-        "foreground": "#8FE6A8"
+        "foreground": "#82CFFF"
       }
     },
     {
@@ -406,7 +406,7 @@
         "meta.delimiter"
       ],
       "settings": {
-        "foreground": "#80A98C"
+        "foreground": "#8BAA96"
       }
     },
     {
@@ -519,20 +519,21 @@
     "typeParameter": "#B7F36B",
     "function": "#39FF88",
     "method": "#39FF88",
-    "parameter": "#C6F7D4",
-    "variable": "#C6F7D4",
-    "property": "#8FE6A8",
+    "parameter": "#D4E8FF",
+    "variable": "#D4E8FF",
+    "property": "#82CFFF",
     "enumMember": "#B7F36B",
     "keyword": "#71FFAD",
     "namespace": "#5EEAD4",
     "comment": {
-      "foreground": "#527C61",
+      "foreground": "#7FA58B",
       "italic": true
     },
     "string": "#A2FFC2",
     "number": "#B7F36B",
-    "operator": "#80A98C",
+    "operator": "#8BAA96",
     "macro": "#D8A7FF",
-    "decorator": "#5EEAD4"
+    "decorator": "#D8A7FF",
+    "boolean": "#B7F36B"
   }
 }
